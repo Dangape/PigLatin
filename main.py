@@ -1,10 +1,8 @@
-import string
 import re
 
 #find the prefix
 vowel = 'aeiouy'
 consonants = "bcdfghjklmnpqrstvwxz"
-punctuation = string.punctuation
 
 # Input test string here
 s = 'Hey buddy, get away from my car!'
